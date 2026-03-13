@@ -1,0 +1,6 @@
+steps\MajorInternationalCities.class
+steps\SpecificCoordinates.class
+runners\TestRunner.class
+utils\ConfigReader.class
+steps\WarmestAustralianCapitalCity.class
+steps\ColdestUSstate.class

@@ -7,8 +7,6 @@ import utils.ConfigReader;
 
 import java.util.*;
 
-import static org.junit.Assert.assertFalse;
-
 public class ColdestUSstate {
 
     List<String> states;

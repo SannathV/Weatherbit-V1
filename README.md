@@ -77,7 +77,7 @@ Scenario execution results
 Step-by-step API interactions
 Test execution summary
 Failure details (if any)
-
+```
 Project Structure
 src/test/java
  ├── runners
@@ -95,6 +95,7 @@ src/test/resources
  │     weather_analysis.feature
  │
  └── serenity.properties
+```
 Future Improvements
 Add JSON-based metadata for cities and states
 Integrate with CI/CD pipelines such as GitHub Actions or Jenkins
